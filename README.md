@@ -1,5 +1,9 @@
 # simple React Webpack 2 Starter
 Simple react starter with Webpack 2, Babel and React Router
+
+
+I recorded  the creation of this starter, you can watch it on youtube:
+https://www.youtube.com/watch?v=NMrdnh1nhRo&list=PLjO8_DOGc44Q4hxYHjOEjQetMv80eQBH2
 ## Usage
 
 **Clone the repo**
